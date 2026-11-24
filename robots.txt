@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jinkyongchoi1.github.io/sitemap.xml
